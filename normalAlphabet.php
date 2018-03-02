@@ -1,0 +1,3 @@
+<?php
+$normalAlphabet = array(array('A', 'a'), array('B', 'b'), array('C', 'c'), array('D', 'd'), array('E', 'e'), array('F', 'f'), array('G', 'g'), array('H', 'h'), array('I', 'i'), array('J', 'j'), array('K', 'k'), array('L', 'l'), array('M', 'm'), array('N', 'n'), array('O', 'o'), array('P', 'p'), array('Q', 'q'), array('R', 'r'), array('S', 's'), array('T', 't'), array('U', 'u'), array('V', 'v'), array('W', 'w'), array('X', 'x'), array('Y', 'y'), array('Z', 'z'));
+?>
